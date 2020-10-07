@@ -5,7 +5,7 @@ module Commands
     end
 
     def process(first, second)
-      first + second
+      nil
     end
   end
 end
